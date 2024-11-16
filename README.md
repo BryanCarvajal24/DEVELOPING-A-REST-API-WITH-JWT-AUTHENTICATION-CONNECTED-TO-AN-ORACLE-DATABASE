@@ -3,6 +3,8 @@
 ## Descripción
 This project involves developing a REST API in Visual Studio Code with JWT (JSON WEB TOKEN) authentication, managing data about Netflix and Blockbuster users and accounts, connected to an Oracle database using SQL Developer for database management.
 
+Este proyecto consiste en desarrollar una API REST en Visual Studio Code con autenticación JWT (JSON WEB TOKEN), gestionando datos de usuarios y cuentas de Netflix y Blockbuster, conectada a una base de datos Oracle utilizando SQL Developer para la administración de la base de datos.
+
 ## Archivos
 
 - [Descargar archivo APIREST](personas_usuario_apirest_node.js.zip)
