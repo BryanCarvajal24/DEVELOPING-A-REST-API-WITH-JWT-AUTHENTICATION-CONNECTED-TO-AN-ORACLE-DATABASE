@@ -12,7 +12,7 @@ Este proyecto consiste en desarrollar una API REST en Visual Studio Code con aut
 [LinkedIn](https://www.linkedin.com/in/bryanburbanocarvajal)  
 
 ## Ver ejemplo en vivo
-[https://bryancarvajal24.github.io/DEVELOPING-A-REST-API-WITH-JWT-AUTHENTICATION-CONNECTED-TO-AN-ORACLE-DATABASE/](https://bryancarvajal24.github.io/DEVELOPING-A-REST-API-WITH-JWT-AUTHENTICATION-CONNECTED-TO-AN-ORACLE-DATABASE/)
+[DEVELOPING-A-REST-API-WITH-JWT-AUTHENTICATION-CONNECTED-TO-AN-ORACLE-DATABASE/](https://bryancarvajal24.github.io/DEVELOPING-A-REST-API-WITH-JWT-AUTHENTICATION-CONNECTED-TO-AN-ORACLE-DATABASE/)
 
 ## Instalación
 Este proyecto requiere la instalación de **Node.js** y un editor de código, como **Visual Studio Code**. Posteriormente, configura y ejecuta la API REST para conectarla a la base de datos Oracle utilizando cualquier herramienta de administración compatible como **Oracle SQL Developer**.
