@@ -1,0 +1,26 @@
+{
+  "name": "apirest-node-nuevo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "iniciar": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.20.0",
+    "jsonwebtoken": "^9.0.2",
+    "mariadb": "^3.3.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.1",
+    "nodemon": "^3.1.4",
+    "sequelize": "^6.37.3"
+  }
+}
